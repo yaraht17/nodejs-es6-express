@@ -1,5 +1,4 @@
-# S2B Backend (BAS)
-This is the back end project for S2B - a shopping platform base on the Messenger Platform.
+# Nodejs ES6 Express Template 
 
 ## Everything we used to make this project
 
